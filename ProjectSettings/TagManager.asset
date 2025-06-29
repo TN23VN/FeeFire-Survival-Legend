@@ -47,7 +47,7 @@ TagManager:
   - name: Objects
     uniqueID: 3077347745
     locked: 0
-  - name: Foresground
+  - name: Foreground
     uniqueID: 2942910633
     locked: 0
   m_RenderingLayers:
